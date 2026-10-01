@@ -1,0 +1,4 @@
+fal.key
+.env
+out/
+node_modules/

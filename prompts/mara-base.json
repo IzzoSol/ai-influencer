@@ -1,0 +1,9 @@
+{
+  "type": "photorealistic_smartphone_photo",
+  "subject": "adult woman, late 20s, long wavy copper-red hair, freckles, green-gray eyes, athletic natural build, relaxed playful expression",
+  "outfit": "black triangle bikini top and bottoms, thin straps",
+  "scene": "outdoor villa bathroom, concrete-plaster walls, light-wood door open to a pool, tropical plants, skylight, golden daylight",
+  "shot": "vertical 9:16 mirror selfie, phone in hand, 26-30mm smartphone look, slight wide-angle edges, natural HDR",
+  "realism": ["real skin texture and pores", "correct hands", "accurate mirror reflection", "no beauty filter"],
+  "negative": ["cartoon", "3D render", "plastic skin", "extra fingers", "warped mirror", "text", "watermark", "logo"]
+}
