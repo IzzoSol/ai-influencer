@@ -1,0 +1,10 @@
+{
+  "rooms": {
+    "bedroom_v1": "pale wall, unmade duvet with a gray throw, monstera left of frame, one window uneven warm light from camera-right, mild phone noise in shadows",
+    "bathroom_v1": "white tile, single warm vanity bulb, mirror, towel on hook, slightly cluttered counter",
+    "villa_v1": "outdoor villa bathroom, concrete-plaster walls, light-wood door open to a pool, tropical plants, skylight, golden daylight"
+  },
+  "camera": "vertical 9:16 phone selfie, arm's length, slightly below eye level, slight wide-angle edges, natural HDR, both hands visible, slight off-center framing, no portrait blur",
+  "realism": ["visible pores", "slight facial asymmetry", "peach fuzz", "no beauty filter", "correct hands", "no text", "no watermark"],
+  "negative": ["extra fingers", "plastic skin", "face morph", "cartoon", "3D render", "warped mirror", "text", "logo"]
+}

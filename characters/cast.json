@@ -1,0 +1,12 @@
+{
+  "version": "v1",
+  "rules": "All characters are original, fictional adults (mid-20s+). No real person's likeness. Face is locked once approved; only outfit/hook/body change.",
+  "cast": {
+    "mara":   { "lock": "adult woman, late 20s, long wavy copper-red hair, light freckles, green-gray eyes, athletic build, thin black wrist band", "accessory": "thin black wristband" },
+    "frk":    { "lock": "adult woman, mid-20s, dense natural freckles across nose and cheeks, full lips, sharp winged liner, long voluminous Brazilian curly hair dark brown with caramel highlights, curvy athletic build", "accessory": "gold hoops" },
+    "bcb":    { "lock": "adult woman, mid-20s, warm medium-brown skin, tight defined 3C/4A curls past the shoulders, high cheekbones, glossy nude lip, hourglass figure", "accessory": "thin gold chains" },
+    "ghost":  { "lock": "adult woman, mid-20s, light freckles, green-hazel eyes, loose Brazilian curls with baby hairs, soft glam, playful smirk", "accessory": "tiny silver studs" },
+    "yuna":   { "lock": "adult East Asian woman, mid-20s, short black bob with curtain bangs, fresh confident expression, slim athletic build", "accessory": "small silver hoop earrings" },
+    "sasha":  { "lock": "adult woman, mid-20s, long straight platinum-blonde hair with dark roots, blue eyes, tan skin, toned build, bright easy smile", "accessory": "small gold nose stud" }
+  }
+}

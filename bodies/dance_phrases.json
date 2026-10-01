@@ -1,0 +1,11 @@
+{
+  "note": "Non-explicit, flirty/playful. Motion prompt only (outfit/room live in the still). One main action per clip, 5-8s. State tempo and framing.",
+  "bodies": [
+    {"id":"wave_flip","tempo":"medium","framing":"full body","timeline":"0-1s body wave already in motion; 1-3s hip sway side to side; 3-4s hair flip; 4-5s wink to camera, last frame matches first for loop"},
+    {"id":"kpop_hit","tempo":"sharp","framing":"full body","timeline":"0-1s point to camera; 1-3s side steps with arm hits; 3-4s head turn; 4-5s confident freeze"},
+    {"id":"mirror_sway","tempo":"slow","framing":"waist-up","timeline":"0-2s phone mirror sway; 2-4s turn to show outfit; 4-5s glance over shoulder and smile"},
+    {"id":"couch_blowkiss","tempo":"medium","framing":"waist-up","timeline":"0-1s lean toward lens; 1-3s shoulder shimmy; 3-4s blow a kiss; 4-5s laugh"},
+    {"id":"outfit_reveal","tempo":"medium","framing":"full body","timeline":"0-1s hard cut mid-spin; 1-3s spin into pose; 3-5s hands on hips smirk, loop"}
+  ],
+  "video_prompt_skeleton": "Use the uploaded reference as the exact character; keep face, freckles, hair, and proportions identical. [timeline]. Handheld phone footage, slight shake, natural light, stable face. Forbidden: no face change, no hairstyle change, no outfit swap, no age shift."
+}

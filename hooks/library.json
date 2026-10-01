@@ -1,0 +1,15 @@
+{
+  "rule": "Test hooks, not whole videos: ONE body x 4-6 hooks x ONE outfit. Visual interrupt before 0.5s, on-screen text states the loop, no greeting. Kill under own baseline after ~2k impressions; confirm a winner twice before varying.",
+  "types": {
+    "contrarian":  ["Stop buying the expensive curl cream. This $8 one is why my hair still holds at hour ten."],
+    "identity":    ["If your costume dies under ring light, watch the first outfit change."],
+    "result_first":["This ghost sheet got more saves than the devil bodysuit. Here's the hem trick."],
+    "open_loop":   ["Nobody talks about the second the dance actually starts holding people."],
+    "pov":         ["POV: you promised a costume and only have a white sheet and 20 minutes."],
+    "confession":  ["I almost posted the polished version. The messy phone one is the one that held."],
+    "number":      ["Three moves. Under eight seconds. That's the whole routine."],
+    "interrupt":   ["(hard cut mid body-wave) text: 'the costume is not the hook'"],
+    "comparison":  ["Left is the routine I posted. Right is the three-step one that actually held."],
+    "demo":        ["Watch the curl cast form. Don't blink."]
+  }
+}
