@@ -31,3 +31,8 @@ Token first, caption only what varies, never caption freckles/curls/eyes.
 ## 8. Failure log (add as we learn)
 - Local zoompan loops: 5s clip ~1 min render at 2x upscale; fine for fallback, not a substitute for real motion.
 - Reference videos of real people: not used (consent/provenance). Motion refs must be ours.
+
+## 9. LOOP RULE (supersedes crossfade) — status: WORKS
+Crossfade loops (loopify.mjs) ghost the subject = visible "fade glitch". DO NOT USE for posting.
+Use `node scripts/video.mjs still.png "<prompt ending 'returning exactly to the opening pose'>" out.mp4 --loop` (same still as first+last frame via tail_image_url). Verified on ghost_fb spin: 5.08s, last frame == first frame, no blend. loopfind.mjs (best-matching frame cut) = fallback only; gave 2s loops with visible jump.
+Known drift: mid-clip hair can shift slightly during turns; QA the whole take.

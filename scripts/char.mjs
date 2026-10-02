@@ -6,4 +6,4 @@ const cast = JSON.parse(fs.readFileSync('characters/cast.json', 'utf8')).cast[id
 const S = JSON.parse(fs.readFileSync('settings.json', 'utf8'));
 const prompt = `Photorealistic phone photo. ${cast.lock}, wearing ${cast.accessory}. ${outfit}. ${shot}. Room: ${S.rooms.bedroom_v1}. ${S.camera}. ${S.realism.join(', ')}. Avoid: ${S.negative.join(', ')}.`;
 const res = await run('fal-ai/nano-banana-pro', { prompt, aspect_ratio: '9:16', num_images: 1 });
-await download(res.images[0].url, `out/faces/${id}.png`);
+await download(res.images[0].url, `out/faces/${id}${process.argv[5] ? '_' + process.argv[5] : ''}.png`);
